@@ -1,6 +1,7 @@
 {
   "private": true,
   "name": "carlo-preact-starter",
+  "description": "A preact Carlo starter",
   "version": "0.0.0",
   "license": "MIT",
   "bin": {

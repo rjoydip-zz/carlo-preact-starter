@@ -1,5 +1,7 @@
 # carlo-preact-starter
 
+A preact Carlo starter.
+
 ## CLI Commands
 
 ``` bash
